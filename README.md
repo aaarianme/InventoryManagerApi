@@ -1,4 +1,4 @@
-# InventoryManagerApi
+# Inventory Manager Api
 .Net Core Api along with React to create an Inventory Manager for shoes/sneakers
 
 I created this app mainly for myself. When I started reselling shoes I quickly realized keeping track of all my inventory was not easy so that's why I created this.
