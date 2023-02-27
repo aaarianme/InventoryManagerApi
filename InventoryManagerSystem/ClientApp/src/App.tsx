@@ -4,7 +4,6 @@ import DashboardPage from "./Pages/DashboardPage";
 import AllProductsPage from "./Pages/ProductsPage";
 import axios from "axios";
 import "./custom.css";
-import "./Global/fontawesome-free-5.15.1-web/css/all.min.css";
 import ProductViewPage from "./Pages/ProductViewPage";
 import ListingsPage from "./Pages/ListingsPage";
 import ListingViewPage from "./Pages/ListingViewPage";
